@@ -18,10 +18,10 @@ I'm a frontend developer with over 20 years experience working on a wide variety
 
 I'm also the author of [Getting Started With Angular](https://leanpub.com/getting-started-with-angular), which is available through LeanPub. 
 
-- 🔭 I’m currently working on a large Vue application that uses Leaflet to represent large amounts of data on a map
-- 🌱 I’m currently learning advanced TypeScript and Vue
-- 💬 Ask me about Vue and Angular development
+- 🔭 I’m currently looking for a new role
+- 🌱 I’m currently learning advanced TypeScript and Go
+- 💬 Ask me about Vue, Angular and TypeScript development
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/stephenradams1/)
   - [My Website](https://cgcsoftware.co.uk)
-  - [Twitter](https://twitter.com/stephenradams)
+  - [Mastodon](https://mastodon.cloud/@stephenadams)
