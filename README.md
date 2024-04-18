@@ -19,8 +19,8 @@ I'm a frontend developer with over 20 years experience working on a wide variety
 I'm also the author of [Getting Started With Angular](https://leanpub.com/getting-started-with-angular), which is available through LeanPub. 
 
 - 🔭 I’m currently looking for a new role
-- 🌱 I’m currently learning advanced TypeScript and Go
-- 👯 I’m looking to collaborate on Go or TypeScript projects
+- 🌱 I’m currently learning advanced TypeScript and React
+- 👯 I’m looking to collaborate on React, Angular or TypeScript projects
 - 💬 Ask me about Vue, Angular and TypeScript development
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/stephenradams1/)
