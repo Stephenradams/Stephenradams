@@ -23,4 +23,4 @@ I'm a frontend developer with over 20 years experience working on a wide variety
   - [LinkedIn](https://www.linkedin.com/in/stephenradams1/)
   - [My Website](https://cgcsoftware.co.uk)
   - [Mastodon](https://mastodon.cloud/@stephenadams)
-  - [Twitter](https://x.com/CGCSoftware)
+  - [BlueSky] (https://bsky.app/profile/stephenradams.bsky.social)
