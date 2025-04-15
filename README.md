@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 -->
 I'm a frontend developer with over 20 years experience working on a wide variety of projects. I enjoy working with TypeScript, not only on the frontend but also backend development using TypeScript
 
-- 🔭 I’m currently looking for a new role
-- 👯 I’m looking to collaborate on React, Node or TypeScript projects
-- 💬 Ask me about React, Node and TypeScript development
+- 👯 I’m looking to collaborate on Angular, React, Node or TypeScript projects
+- 💬 Ask me about Angular, React, Node and TypeScript development
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/stephenradams1/)
-  - [My Website](https://cgcsoftware.co.uk)
   - [Mastodon](https://mastodon.cloud/@stephenadams)
   - [BlueSky](https://bsky.app/profile/stephenradams.bsky.social)
+
